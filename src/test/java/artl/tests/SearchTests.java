@@ -11,7 +11,7 @@ import static io.appium.java_client.AppiumBy.accessibilityId;
 import static io.appium.java_client.AppiumBy.id;
 import static io.qameta.allure.Allure.step;
 
-@DisplayName("Тесты Android-приложения сайта Wikipedia")
+@DisplayName("Tests of Android application of Wikipedia site")
 
 public class SearchTests extends artl.tests.TestBase {
 
